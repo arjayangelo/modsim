@@ -1,2 +1,1 @@
-# modsim
-0.5
+For anyone aside from my classmates who will view this project, pls no judge :c
